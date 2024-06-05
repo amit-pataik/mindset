@@ -1,0 +1,63 @@
+body {
+    font-family: roboto;
+    margin: 50px 50px 0px 50px;
+    background-color: #373A40;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+    color: white;
+
+  }
+    .mindsetimage{
+    border-radius: 100%;
+  }
+  .main {
+    flex: 1;
+    }
+    .card{
+        width: 45%;
+    }
+    h1{
+        font-size: 4rem;
+    }
+    .tile-image{
+        height: 200px;
+        width: 300px;
+        float: left;
+        margin-right: 50px;
+        padding: 6px;  
+        border: 1px solid white;
+        
+    }
+    .card{
+        width: 45%;
+
+    }
+    .first{
+        float: left;
+        
+    }
+    .third{
+        float: left;
+    }
+    .fifth{
+        float: left;
+    }
+    .second
+    {
+        float: right;
+    }
+    .fourth{
+        float: right;
+    }
+    .sixth{
+        float: right;
+    }
+    .top1{
+        color: gold;
+    }
+    footer{
+    text-align:right;
+    font-size: 30px;
+    color: gold;
+    }
